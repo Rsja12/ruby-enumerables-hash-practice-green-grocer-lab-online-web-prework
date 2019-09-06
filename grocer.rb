@@ -40,7 +40,8 @@ def apply_clearance(cart)
   cart
 end 
 
-
+def checkout()
+end
 
 
 
